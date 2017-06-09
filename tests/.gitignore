@@ -61,3 +61,4 @@ tmp.*
 /truncated_property
 /utilfdt_test
 /value-labels
+/overlay_stacked
